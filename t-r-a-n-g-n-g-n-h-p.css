@@ -1,0 +1,504 @@
+.logo-mixi-tt-2-icon {
+  height: 54px;
+  width: 90px;
+  position: relative;
+  object-fit: cover;
+  cursor: pointer;
+}
+.login-form-child {
+  width: 100%;
+  height: 616px;
+  position: absolute;
+  margin: 0 !important;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-200);
+  border: 7px solid var(--color-teal-100);
+  box-sizing: border-box;
+}
+.ng-nhp {
+  margin: 0;
+  align-self: stretch;
+  height: 143px;
+  position: relative;
+  font-size: var(--font-size-25xl);
+  font-weight: 700;
+  color: var(--color-teal-100);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.mixishop,
+.ng-nhp,
+.vui-lng-ng {
+  font-family: var(--font-inter);
+}
+.vui-lng-ng-container1 {
+  width: 100%;
+}
+.vui-lng-ng-container {
+  height: 34px;
+  width: 426px;
+  position: relative;
+  font-size: var(--font-size-sm);
+  color: var(--color-teal-100);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.login-instructions {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-3xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  margin-top: -51px;
+}
+.login-prompt,
+.ng-nhp-parent {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.ng-nhp-parent {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  min-height: 143px;
+}
+.login-prompt {
+  width: 670px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-16xl);
+  box-sizing: border-box;
+}
+.ng-nhp-qua {
+  margin: 0;
+  align-self: stretch;
+  height: 35px;
+  position: relative;
+  font-size: var(--font-size-mid);
+  font-weight: 400;
+  font-family: var(--font-inter);
+  color: var(--color-teal-100);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.google-plus-icon {
+  height: 30px;
+  width: 30px;
+  position: relative;
+  object-fit: cover;
+}
+.component-1 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-10xs) var(--padding-35xl);
+  background-color: #db4b38;
+  height: 34px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  z-index: 1;
+}
+.facebook-icon {
+  height: 30px;
+  width: 30px;
+  position: relative;
+  object-fit: cover;
+}
+.component-2,
+.social-icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.component-2 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-10xs) var(--padding-35xl);
+  background-color: #475b94;
+  height: 34px;
+  align-items: center;
+  box-sizing: border-box;
+  z-index: 1;
+}
+.social-icons {
+  align-items: flex-start;
+  gap: var(--gap-23xl);
+}
+.social-buttons,
+.social-options {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.social-buttons {
+  flex-direction: row;
+  padding: 0 var(--padding-39xl) 0 var(--padding-31xl);
+}
+.social-options {
+  width: 426px;
+  flex-direction: column;
+  gap: var(--gap-4xs);
+  max-width: 100%;
+}
+.input-fields-child,
+.social-login {
+  width: 672px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.social-login {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-31xl);
+}
+.input-fields-child {
+  height: 48px;
+  position: relative;
+  background-color: var(--color-gainsboro-200);
+  border: 2px solid var(--color-teal-100);
+  display: none;
+}
+.input-fields,
+.tn-ng-nhp {
+  display: flex;
+  max-width: 100%;
+}
+.tn-ng-nhp {
+  width: 350px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-base);
+  background-color: transparent;
+  height: 34px;
+  position: relative;
+  color: var(--color-teal-100);
+  text-align: left;
+  align-items: center;
+  padding: 0;
+  z-index: 2;
+}
+.input-fields {
+  width: 672px;
+  background-color: var(--color-gainsboro-200);
+  border: 2px solid var(--color-teal-100);
+  box-sizing: border-box;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) var(--padding-smi) var(--padding-8xs);
+  z-index: 1;
+}
+.input-fields-item,
+.mt-khu {
+  position: relative;
+  max-width: 100%;
+}
+.input-fields-item {
+  height: 48px;
+  width: 672px;
+  background-color: var(--color-gainsboro-200);
+  border: 2px solid var(--color-teal-100);
+  box-sizing: border-box;
+  display: none;
+}
+.mt-khu {
+  width: 350px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-base);
+  background-color: transparent;
+  height: 35px;
+  color: var(--color-teal-100);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  padding: 0;
+  z-index: 2;
+}
+.clickframe-43-child,
+.input-fields1 {
+  background-color: var(--color-gainsboro-200);
+  box-sizing: border-box;
+}
+.input-fields1 {
+  width: 672px;
+  border: 2px solid var(--color-teal-100);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) var(--padding-smi) var(--padding-6xs);
+  max-width: 100%;
+  z-index: 1;
+}
+.clickframe-43-child {
+  height: 10px;
+  width: 10px;
+  position: relative;
+  border-radius: var(--br-11xs);
+  border: 1px solid var(--color-teal-200);
+}
+.clickframe-43 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  z-index: 2;
+}
+.remember-me1 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-inter);
+  color: var(--color-teal-100);
+  text-align: left;
+  z-index: 1;
+}
+.clickframe-43-parent,
+.remember-label {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.remember-label {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-7xs) 0 0;
+  margin-left: -1px;
+}
+.clickframe-43-parent {
+  width: 134px;
+  flex-direction: row;
+}
+.qun-mt-khu {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-inter);
+  color: var(--color-teal-100);
+  text-align: left;
+  z-index: 1;
+}
+.forgot-password {
+  width: 109px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+}
+.credentials-area,
+.login-options,
+.remember-me {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.remember-me {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.credentials-area,
+.login-options {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-5xs);
+  box-sizing: border-box;
+}
+.credentials-area {
+  flex-direction: column;
+  padding: 0 0 var(--padding-11xl);
+  gap: 9.5px;
+}
+.ng-nhp1,
+.ng-nhp2 {
+  display: flex;
+  justify-content: center;
+}
+.ng-nhp2 {
+  width: 132px;
+  position: relative;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: center;
+  align-items: center;
+}
+.ng-nhp1 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-4xs) var(--padding-xl);
+  background-color: var(--color-crimson);
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  z-index: 1;
+}
+.ng-nhp1:hover {
+  background-color: var(--color-deeppink);
+}
+.b,
+.khng-c-ti,
+.ng-k,
+.span {
+  font-family: var(--font-inter);
+  color: var(--color-orangered);
+}
+.khng-c-ti,
+.ng-k,
+.span {
+  color: var(--color-teal-100);
+}
+.ng-k,
+.span {
+  color: var(--color-orangered);
+}
+.span {
+  color: var(--color-teal-100);
+}
+.khng-c-ti-container1 {
+  width: 100%;
+}
+.khng-c-ti-container {
+  margin: 0;
+  height: 32px;
+  width: 422px;
+  position: relative;
+  font-size: var(--font-size-mid);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+  cursor: pointer;
+  z-index: 1;
+}
+.signup-option {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-9xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.action-buttons2,
+.login-form {
+  flex-direction: column;
+  max-width: 100%;
+}
+.action-buttons2 {
+  width: 672px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.login-form {
+  margin: 0;
+  align-self: stretch;
+  padding: 0 var(--padding-3xs) var(--padding-37xl) var(--padding-23xl);
+  position: relative;
+  gap: var(--gap-smi);
+}
+.header,
+.login-form,
+.trang-ng-nhp {
+  box-sizing: border-box;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.header {
+  width: 747px;
+  flex-direction: column;
+  padding: var(--padding-8xl) 0 0;
+  max-width: 100%;
+}
+.trang-ng-nhp {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  border: 11px solid var(--color-teal-100);
+  flex-direction: row;
+  padding: var(--padding-mid) var(--padding-2xl) 74px;
+  gap: var(--gap-216xl);
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1125px) {
+  .trang-ng-nhp {
+    flex-wrap: wrap;
+    gap: var(--gap-98xl);
+  }
+}
+@media screen and (max-width: 1025px) {
+  .ng-nhp {
+    font-size: var(--font-size-16xl);
+  }
+  .login-form {
+    padding-left: var(--padding-2xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .login-form {
+    padding-bottom: var(--padding-17xl);
+    box-sizing: border-box;
+  }
+  .trang-ng-nhp {
+    gap: var(--gap-40xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .ng-nhp {
+    font-size: var(--font-size-7xl);
+  }
+  .social-icons {
+    flex-wrap: wrap;
+    gap: var(--gap-2xl);
+  }
+  .social-buttons {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .remember-me {
+    flex-wrap: wrap;
+  }
+  .ng-nhp2 {
+    font-size: var(--font-size-xl);
+  }
+  .trang-ng-nhp {
+    gap: var(--gap-10xl);
+  }
+}
